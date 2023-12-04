@@ -1,7 +1,9 @@
 #
 # code Aeroacoustics PSD
-# @author : Dahia Chibouti
-#
+"""
+ @author : D. Chibouti
+ Paris 2023
+"""
 import numpy as np
 from matplotlib import pyplot as plt
 import scipy.special as sc
